@@ -1,0 +1,15 @@
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\bin\Debug\net6.0\AdvancedProgrammingClass1.exe
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\bin\Debug\net6.0\AdvancedProgrammingClass1.deps.json
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\bin\Debug\net6.0\AdvancedProgrammingClass1.runtimeconfig.json
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\bin\Debug\net6.0\AdvancedProgrammingClass1.dll
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\bin\Debug\net6.0\ref\AdvancedProgrammingClass1.dll
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\bin\Debug\net6.0\AdvancedProgrammingClass1.pdb
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.csproj.AssemblyReference.cache
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.AssemblyInfoInputs.cache
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.AssemblyInfo.cs
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.csproj.CoreCompileInputs.cache
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.dll
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\ref\AdvancedProgrammingClass1.dll
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.pdb
+C:\Users\semos\Documents\Projects\Semos-AdvancedProgramming-VS\AdvancedProgrammingClass1\AdvancedProgrammingClass1\obj\Debug\net6.0\AdvancedProgrammingClass1.genruntimeconfig.cache
