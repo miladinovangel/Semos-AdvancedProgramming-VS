@@ -100,12 +100,40 @@
 // Napiste programa koja ke proveruva dali vnesen broj od tastaturata
 // e pozitiven ili ne e pozivtiven
 
+//int number = int.Parse(Console.ReadLine());
+//if (number == 0) // dokolku uslovot e ispolnet
+//{
+//    Console.WriteLine("Vnesovte nula");
+//}
+//else if (number > 0)
+//{
+//    Console.WriteLine("Vnesovte pozitiven broj");
+//}
+//else
+//{
+//    Console.WriteLine("Vnesovte negativen broj");
+//}
+//int number = int.Parse(Console.ReadLine());
+//if (number > 0) // dokolku uslovot e ispolnet
+//{
+//    Console.WriteLine("Vnesovte pozitiven broj");
+//}
+//else if (number < 0)
+//{
+//    Console.WriteLine("Vnesovte negativen broj");
+//}
+//else
+//{
+//    Console.WriteLine("Vnesovte nula");
+//}
+//% - modulo - ostatok pri delenje
+
 int number = int.Parse(Console.ReadLine());
-if (number >= 0) // dokolku uslovot e ispolnet
+if (number % 2 == 0)
 {
-    Console.WriteLine("Vnesovte pozitiven broj");
+    Console.WriteLine("Brojot e paren");
 }
-else
-{
-    Console.WriteLine("Vnesovte negativen broj");
-}
+
+
+
+
