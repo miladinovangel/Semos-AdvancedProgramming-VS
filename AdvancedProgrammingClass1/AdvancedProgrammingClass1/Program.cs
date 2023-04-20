@@ -128,12 +128,99 @@
 //}
 //% - modulo - ostatok pri delenje
 
-int number = int.Parse(Console.ReadLine());
-if (number % 2 == 0)
-{
-    Console.WriteLine("Brojot e paren");
-}
+//int number = int.Parse(Console.ReadLine());
+//if (number % 2 == 0)
+//{
+//    Console.WriteLine("Brojot e paren");
+//}
 
+//int input = int.Parse(Console.ReadLine());
+////if(input >= 0)
+////{
+////    Console.Write(input);
+////}
+////else
+////{
+////    Console.WriteLine(-input);
+////}
+
+//// ternaren operator
+//int absoluteValue = input >= 0 ? input : -input;// uslov ? x : y;
+//Console.WriteLine(absoluteValue);
+
+//int input = int.Parse(Console.ReadLine());
+//if (input % 2 == 0 && input % 3 == 0)
+//{
+//    //Console.WriteLine("The number " + input + " is divisible by 2 or 3");
+//    Console.WriteLine($"The number {input} is divisible by 2 or 3");
+
+//}
+//else
+//{
+//    Console.WriteLine("The number " + input + " is not divisible by 2 or 3");
+//}
+
+// VO koja ke vnesite 2 broja od tastaturata i treba da go ispecatite pogolemiot broj
+//int input1 = int.Parse(Console.ReadLine());
+//int input2 = int.Parse(Console.ReadLine());
+//if (input1 > input2)
+//{
+//    Console.WriteLine(input1);
+//}
+//else
+//{
+//    Console.WriteLine(input2);
+//}
+//int pogolem = (input1 > input2) ? input1 : input2; //ternaren operator
+//Console.WriteLine(pogolem);
+
+// napisete ciklus sto ke go pecati vaseto ime beskonecno
+//while (true)
+//{
+//    Console.WriteLine("Angel");
+//}
+
+//for ( ; ; ) // eleganten beskonecen ciklus
+//    Console.WriteLine("Angel")
+
+
+// Ispecati gi broevite od 0 do 5
+//Console.WriteLine(0);
+//Console.WriteLine(1);
+//Console.WriteLine(2);
+//Console.WriteLine(3);
+//Console.WriteLine(4);
+//Console.WriteLine(5);
+
+//if (input % 2 == 0 && input % 3 == 0)
+//{
+//    Console.WriteLine($"The number {input} is divisible by 2 or 3");
+//}
+
+//pecati broevi site broevi od 1 do 100 sto se delivi so 2 i 3
+//for (int i = 1; i <= 100; i++)/// 1 3 5 7 9
+//{
+//    if (i % 2 == 0 && i % 3 == 0)
+//    {
+//        Console.WriteLine(i);
+//    } 
+
+//}
+
+// zbirot na broevite od 1 do 5
+//int sum = 0;
+//sum += 1;
+//sum += 2;
+//sum += 3;
+//sum += 4;
+//sum += 5;
+//Console.WriteLine(sum);
+int sum = 0;
+for (int i = 1; i <= 5; i++)
+{
+    sum += i;
+}
+Console.WriteLine(sum);
 
 
 
