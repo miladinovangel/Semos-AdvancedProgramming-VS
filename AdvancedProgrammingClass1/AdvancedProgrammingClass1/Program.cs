@@ -215,12 +215,91 @@
 //sum += 4;
 //sum += 5;
 //Console.WriteLine(sum);
-int sum = 0;
-for (int i = 1; i <= 5; i++)
+//int sum = 0;
+//for (int i = 1; i <= 10; i++)
+//{
+//    sum += i;
+//}
+//Console.WriteLine(sum);
+
+
+//int sum = 0;
+//for (int i = 1; i <= 100; i++)/// sobiranje na site broevi od 1 do 100 delivi so 2 i 3
+//{
+//    if (i % 5 == 0 && i % 7 == 0)
+//    {
+//        sum += i;
+//        Console.WriteLine(i);
+//    }
+//}
+//Console.WriteLine(sum);
+
+// treba da vnesete 5 broevi od tastaturata
+//Console.ReadLine();
+//Console.ReadLine();
+//Console.ReadLine();
+//Console.ReadLine();
+//Console.ReadLine();
+
+// prosek?
+//int numbers = int.Parse(Console.ReadLine());
+//int sum = 0;
+//int product = 1;
+
+//for (int i = 0; i < numbers; i++)
+//{
+//    int input = int.Parse(Console.ReadLine());
+//    sum += input;
+//    product *= input;
+
+//}
+
+//Console.WriteLine(sum);
+//Console.WriteLine(product);
+//Console.WriteLine((float) sum / numbers);
+
+
+int result;
+
+
+for (int j = 1; j < 20; j++) // presmetaj go tretiot stepen na broevite od 1 do 20
 {
-    sum += i;
+    result = 1;
+    for (int i = 0; i < 3; i++)
+    {
+        result *= j;
+    }
+    Console.WriteLine(result);
 }
-Console.WriteLine(sum);
 
 
+//result = 1;
+//for (int i = 0; i < 3; i++)
+//{
+//    result *= 3;
+//}
+//Console.WriteLine(result);
 
+//result = 1;
+//for (int i = 0; i < 3; i++)
+//{
+//    result *= 4;
+//}
+//Console.WriteLine(result);
+
+//result = 1;
+//for (int i = 0; i < 3; i++)
+//{
+//    result *= 5;
+//}
+//Console.WriteLine(result);
+
+//for (int i = 2; i < 7; i++)
+//{
+//    result = 1;
+//    for(int j = 0; j < 3; j++)
+//    {
+//        result *= i;
+//    }
+//    Console.WriteLine(result);
+//}
